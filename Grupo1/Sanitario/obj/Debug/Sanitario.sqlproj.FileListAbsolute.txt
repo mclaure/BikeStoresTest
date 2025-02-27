@@ -8,3 +8,9 @@ C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Demo\Gr
 C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Demo\Grupo1\Sanitario\obj\Debug\predeploy.sql
 C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Demo\Grupo1\Sanitario\obj\Debug\Sanitario.dll
 C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Demo\Grupo1\Sanitario\obj\Debug\Sanitario.pdb
+C:\Demo\BikeStoresTest\Grupo1\Sanitario\bin\Debug\Sanitario.dacpac
+C:\Demo\BikeStoresTest\Grupo1\Sanitario\bin\Debug\Sanitario.dll
+C:\Demo\BikeStoresTest\Grupo1\Sanitario\bin\Debug\Sanitario.pdb
+C:\Demo\BikeStoresTest\Grupo1\Sanitario\obj\Debug\Sanitario.sqlproj.AssemblyReference.cache
+C:\Demo\BikeStoresTest\Grupo1\Sanitario\obj\Debug\Sanitario.dll
+C:\Demo\BikeStoresTest\Grupo1\Sanitario\obj\Debug\Sanitario.pdb
